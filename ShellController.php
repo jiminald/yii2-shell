@@ -24,7 +24,6 @@ class ShellController extends Controller
      * @var array include file(s) before starting tinker shell
      */
     public $include = [];
-
     /**
      * @var array PsySH shell configuration array
      * @since 2.0.6
