@@ -4,7 +4,7 @@ Yii Framework 2 Shell extension Change Log
 2.0.7 under development
 -----------------------
 
-- no changes in this release.
+- Version bump for symfony/var-dumper dependency
 
 
 2.0.6 February 13, 2025
